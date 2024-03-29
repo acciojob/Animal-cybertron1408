@@ -1,1 +1,24 @@
-/*  your css code here. If applicable */
+#animal-photos{
+	background-color:#444444;
+	margin:0px 80px 0px 80px;
+	padding:20px 10px 20px 10px;
+	align-items:center;
+	display:relative;
+	
+}
+body{
+	background: repeating-linear-gradient(
+        145deg,
+        #444444,
+        #444444 10px,
+        black 10px,
+        black 20px
+      );
+}
+img{
+margin:15px;
+	width:250px
+}
+*{
+	font-family:"Times New Roman"
+}
